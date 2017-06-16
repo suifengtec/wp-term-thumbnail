@@ -6,17 +6,17 @@ adding the thumbnail feature to your terms,  you can also upload image in base64
 
 Get a term thumbnail  to show it:
 
-`
+```
 WP_Term_Thumbnail_Module_Utils::get_term_thumbnail( $term_id, $size = 'post-thumbnail', $attr = '' )
 
-`
+```
 
 Get a term thumbnail URL:
 
-`
+```
 WP_Term_Thumbnail_Module_Utils::get_term_thumbnail_url( $term_id, $size='full')
 
-`
+```
 
 
 Set a thumbnail for a term:
