@@ -1,5 +1,9 @@
 # wp-term-thumbnail
-adding the thumbnail feature to your terms,  you can also upload image in base64 format via it.
+
+
+This is a WordPress plugin.
+
+it adds the thumbnail feature to your terms,  you can also upload image in base64 format via it.
 
 # Usage
 
