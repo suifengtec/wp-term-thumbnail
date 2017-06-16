@@ -7,7 +7,6 @@ it adds the thumbnail feature to your terms,  you can also upload image in base6
 
 # Usage
 
-
 Get a term thumbnail  to show it:
 
 ```
